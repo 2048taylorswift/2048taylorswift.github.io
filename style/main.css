@@ -2,8 +2,8 @@
 html, body {
   margin: 0;
   padding: 0;
-  background: #FF75A3;
-  color: #FF0066;
+  background: #faf8ef;
+  color: #00000;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
@@ -149,7 +149,7 @@ hr {
   -ms-user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  background: #FF0066;
+  background: #e9c500;
   border-radius: 6px;
   width: 500px;
   height: 500px;
@@ -183,7 +183,7 @@ hr {
       margin-top: 59px; }
     .game-container .game-message a {
       display: inline-block;
-      background: #FF0066;
+      background: #ef7900;
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
@@ -567,7 +567,7 @@ hr {
     -ms-user-select: none;
     -ms-touch-action: none;
     touch-action: none;
-    background: #FF0066;
+    background: #ef7900;
     border-radius: 6px;
     width: 280px;
     height: 280px;
@@ -601,7 +601,7 @@ hr {
         margin-top: 59px; }
       .game-container .game-message a {
         display: inline-block;
-        background: #FF0066;
+        background: #ef7900;
         border-radius: 3px;
         padding: 0 20px;
         text-decoration: none;
